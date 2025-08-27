@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bimal/static/css/main.b1715684.css",
-    "main.js": "/bimal/static/js/main.ab2b1abb.js",
+    "main.js": "/bimal/static/js/main.9c962e8c.js",
     "static/js/453.ee5807c3.chunk.js": "/bimal/static/js/453.ee5807c3.chunk.js",
     "index.html": "/bimal/index.html",
     "main.b1715684.css.map": "/bimal/static/css/main.b1715684.css.map",
-    "main.ab2b1abb.js.map": "/bimal/static/js/main.ab2b1abb.js.map",
+    "main.9c962e8c.js.map": "/bimal/static/js/main.9c962e8c.js.map",
     "453.ee5807c3.chunk.js.map": "/bimal/static/js/453.ee5807c3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b1715684.css",
-    "static/js/main.ab2b1abb.js"
+    "static/js/main.9c962e8c.js"
   ]
 }
